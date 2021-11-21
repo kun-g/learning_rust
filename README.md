@@ -14,3 +14,4 @@
 ## 学习笔记
 1. [Hello World](./hello_world)
 2. [数据类型](./data_types)
+3. [函数](./functions)
