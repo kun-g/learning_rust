@@ -12,5 +12,5 @@
 `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 
 ## 学习笔记
-1. [Hello World](./HelloWorld)
-2. 
+1. [Hello World](./hello_world)
+2. [数据类型](./data_types)
