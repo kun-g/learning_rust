@@ -18,5 +18,5 @@
 4. [流程控制](./control_flow)
 5. [单元测试](./unit_test)
 6. [所有权](./ownership)
-7. [结构体](./struct)
+7. [结构体](./structure)
 8. [枚举与匹配](./enums_and_matching)
